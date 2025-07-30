@@ -4,7 +4,7 @@
 
 # Hi, I'm Satyaraj Reddy Nandi! 👋
 
-I'm a dedicated **Software Development Engineer** with **4.5+ years of experience** building scalable, high-performance cloud-native applications and data pipelines. I recently completed my tenure as a Software Engineer at **Amazon Web Services**, where I specialized in Go APIs, distributed systems, and AWS cloud infrastructure. I have a Master of Science in Information Systems from Georgia State University and expertise in technologies like **Go**, **Python**, **AWS Cloud Services**, and **distributed systems**. I thrive in designing robust backend architectures and enjoy contributing to data science and machine learning projects.
+I'm a dedicated **Software Development Engineer** with **4.5+ years of experience** building scalable, high-performance cloud-native applications and data pipelines. I recently completed my tenure as a Software Engineer at **Amazon Web Services**, where I helped develop highly available, secure services—from RESTful Go APIs, distributed systems, and AWS cloud infrastructure. I hold a **Master’s in Information Systems (Big Data & Analytics)** from *Georgia State University* and expertise in technologies like **Python**, **Go**, **AWS Cloud Services**, and **distributed systems**. I thrive in designing robust backend architectures and enjoy contributing to data science and machine learning projects. I love tackling complex problems and continuously learning new technologies. I thrive in collaborative environments and enjoy sharing knowledge with the community in my spare time. 
 
 ---
 
