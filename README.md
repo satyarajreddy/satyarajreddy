@@ -51,7 +51,7 @@ I'm a dedicated **Software Development Engineer** with **4.5+ years of experienc
 - Implemented comprehensive monitoring systems for **15+ microservices** using CloudWatch
 
 ### 🔹 ValueMomentum (Jul 2019 - Jul 2021)  
-**Software Engineer - Data Platform**
+**Software Development Engineer**
 - Developed distributed ETL pipelines processing **3B+ insurance records** using PySpark and Hadoop
 - Built real-time streaming pipelines with Apache Kafka handling **2M+ events/second**
 - Created predictive modeling APIs for **Fortune 500 financial clients**
