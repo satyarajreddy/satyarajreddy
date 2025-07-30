@@ -35,6 +35,9 @@ I'm a dedicated **Software Development Engineer** with **4.5+ years of experienc
 ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-4B0082?style=for-the-badge&logo=aws&logoColor=white) 
 ![API Gateway](https://img.shields.io/badge/API%20Gateway-008080?style=for-the-badge&logo=amazonapi&logoColor=white) 
 ![Amazon Kinesis](https://img.shields.io/badge/Amazon%20Kinesis-DAA520?style=for-the-badge&logo=amazonkinesis&logoColor=white) 
+![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-4B612C?style=for-the-badge&logo=aws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-0052CC?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-6C47FF?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Big Data & Streaming
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
