@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ![Profile Views](https://komarev.com/ghpvc/?username=satyarajreddy&color=blue)
 
 # Hi, I'm Satyaraj Reddy Nandi! 👋
