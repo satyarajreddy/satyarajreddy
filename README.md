@@ -2,7 +2,7 @@
 
 # Hi, I'm Satyaraj Reddy Nandi! 👋
 
-I'm a dedicated **Software Development Engineer** with **4.5+ years of experience** building scalable, high-performance cloud-native applications and data pipelines. I recently completed my tenure as a Software Engineer at **Amazon Web Services**, where I helped develop highly available, secure services—from RESTful Go APIs, distributed systems, and AWS cloud infrastructure. I hold a **Master’s in Information Systems (Big Data & Analytics)** from *Georgia State University* and expertise in technologies like **Python**, **Go**, **AWS Cloud Services**, and **distributed systems**. I thrive in designing robust backend architectures and enjoy contributing to data science and machine learning projects. I love tackling complex problems and continuously learning new technologies. I thrive in collaborative environments and enjoy sharing knowledge with the community in my spare time. 
+I'm a dedicated **Software Development Engineer** with **4.5+ years of experience** building scalable, high-performance cloud-native applications and data pipelines. I'm currently an SDE-II in the **Microsoft Security org**, where I contribute to secure authentication platforms and incident response automation. Previously, at **Amazon Web Services**, I developed highly available, secure services powering AWS Security, from RESTful Go APIs to distributed AWS cloud infrastructure. I hold a **Master’s in Information Systems (Big Data & Analytics)** from *Georgia State University* and have delivered at scale with **Python**, **Go**, **AWS**, and **distributed systems**. I thrive tackling complex problems in collaborative teams and enjoy sharing knowledge with the technical community.
 
 ---
 
@@ -56,6 +56,11 @@ I'm a dedicated **Software Development Engineer** with **4.5+ years of experienc
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satyarajreddy&repo=FordGoBike-Data-Visualisation)](https://github.com/satyarajreddy/FordGoBike-Data-Visualisation) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satyarajreddy&repo=Wine-Quality-Analysis)](https://github.com/satyarajreddy/Wine-Quality-Analysis)
 
 ## 💼 Professional Experience
+
+### 🔹 Microsoft (Sep 2025 – Present)
+**Software Development Engineer II**
+- Participating in the development of secure authentication microservices and automation for incident detection workflows using **Azure Active Directory** and Microsoft cloud infrastructure
+- Collaborating on features for secure user flows, compliance reporting, and cross-team engineering best practices in the Microsoft Security org
 
 ### 🔹 Amazon Web Services (Dec 2022 - June 2025)
 **Software Development Engineer**
