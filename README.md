@@ -57,19 +57,19 @@ I'm a dedicated **Software Development Engineer** with **4.5+ years of experienc
 
 ## 💼 Professional Experience
 
-### 🔹 Microsoft (Sep 2025 – Present)
+### <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft logo" width="28" style="vertical-align:middle; margin-right:20px"/>&nbsp;**Microsoft (Sep 2025 – Present)**  
 **Software Development Engineer II**
 - Participating in the development of secure authentication microservices and automation for incident detection workflows using **Azure Active Directory** and Microsoft cloud infrastructure
 - Collaborating on features for secure user flows, compliance reporting, and cross-team engineering best practices in the Microsoft Security org
 
-### 🔹 Amazon Web Services (Dec 2022 - June 2025)
+### <img src="https://1000logos.net/wp-content/uploads/2016/10/Amazon-logo-meaning.jpg" alt="Amazon logo" width="32" style="vertical-align:middle; margin-right:20px"/>&nbsp;**Amazon Web Services (Dec 2022 - June 2025)**
 **Software Development Engineer**
 - Built high-performance RESTful Go APIs serving **300K+ requests/minute** with sub-100ms response times
 - Architected Infrastructure as Code solutions using **AWS CDK**, reducing deployment time by **80%**
 - Optimized PySpark-based ETL pipelines, saving **$37K/month** in operational costs
 - Implemented comprehensive monitoring systems for **15+ microservices** using CloudWatch
 
-### 🔹 ValueMomentum (Jul 2019 - Jul 2021)  
+### <img src="https://www.valuemomentum.com/wp-content/uploads/elementor/thumbs/Favicon-for-PR-11-1-rbw4gbuwlcd4oiiwke1xj6xq73kzhis7lvdykbsz5a.png" alt="ValueMomentum logo" width="28" style="vertical-align:middle; margin-right:20px"/>&nbsp;**ValueMomentum (Jul 2019 - Jul 2021)**
 **Software Development Engineer**
 - Developed distributed ETL pipelines processing **3B+ insurance records** using PySpark and Hadoop
 - Built real-time streaming pipelines with Apache Kafka handling **2M+ events/second**
