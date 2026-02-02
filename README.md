@@ -2,7 +2,7 @@
 
 # Hi, I'm Satyaraj Reddy Nandi! 👋
 
-I'm a dedicated **Software Development Engineer** with **4.5+ years of experience** building scalable, high-performance cloud-native applications and data pipelines. I'm currently an SDE-II in the **Microsoft Security org**, where I contribute to secure authentication platforms and incident response automation. Previously, at **Amazon Web Services**, I developed highly available, secure services powering AWS Security, from RESTful Go APIs to distributed AWS cloud infrastructure. I hold a **Master’s in Information Systems (Big Data & Analytics)** from *Georgia State University* and have delivered at scale with **Python**, **Go**, **AWS**, and **distributed systems**. I thrive tackling complex problems in collaborative teams and enjoy sharing knowledge with the technical community.
+I'm a dedicated **Software Development Engineer** with **4.5+ years of experience** building scalable, high-performance cloud-native applications and data pipelines. I'm currently pursuing an **MS in Computer Science & Engineering** at *University of Fairfax* while leveraging my background as an SDE-II from the **Microsoft Security org**, where I contribute to secure authentication platforms and incident response automation. Previously, at **Amazon Web Services**, I developed highly available, secure services powering AWS Security, from RESTful Go APIs to distributed AWS cloud infrastructure. I hold a **Master’s in Information Systems (Big Data & Analytics)** from *Georgia State University* and have delivered at scale with **Python**, **Go**, **AWS**, and **distributed systems**. I thrive tackling complex problems in collaborative teams and enjoy sharing knowledge with the technical community.
 
 ---
 
