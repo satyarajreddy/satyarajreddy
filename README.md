@@ -88,9 +88,15 @@ I'm a dedicated **Software Development Engineer** with **4.5+ years of experienc
 
 ## 📊 GitHub Stats
 
-![Satyaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyarajreddy&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyarajreddy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false" alt="Satyaraj's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=satyarajreddy&theme=radical&hide_longest_streak=true" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyarajreddy&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyarajreddy&layout=compact&theme=radical&hide=jupyter%20notebook,html,css&langs_count=8" alt="Top Languages" />
+</p>
+
 
 ## 🎓 Education & Certifications
 
