@@ -63,7 +63,7 @@ I'm a dedicated **Software Development Engineer** with **4.5+ years of experienc
 
 ## 💼 Professional Experience
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft logo" width="28" style="vertical-align:middle; margin-right:20px"/>&nbsp;**Microsoft (Sep 2025 – Present)**  
+### <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft logo" width="28" style="vertical-align:middle; margin-right:20px"/>&nbsp;**Microsoft (Sep 2025 – Dec 2025)**  
 **Software Development Engineer II**
 - Participating in the development of secure authentication microservices and automation for incident detection workflows using **Azure Active Directory** and Microsoft cloud infrastructure
 - Collaborating on features for secure user flows, compliance reporting, and cross-team engineering best practices in the Microsoft Security org
